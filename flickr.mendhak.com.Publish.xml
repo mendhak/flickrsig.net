@@ -1,0 +1,12 @@
+<publishData>
+  <publishTarget publishUrl="c:\temp\flick\">
+    <file relUrl="Global.asax" publishTime="04/02/2010 20:25:03" />
+    <file relUrl="f.ashx" publishTime="05/25/2009 16:34:16" />
+    <file relUrl="Web.config" publishTime="04/02/2010 23:59:47" />
+    <file relUrl="Default.aspx" publishTime="04/18/2010 07:48:04" />
+    <file relUrl="test.html" publishTime="04/02/2010 21:50:26" />
+    <file relUrl="bin/flickr.mendhak.com.pdb" publishTime="06/16/2010 18:34:36" />
+    <file relUrl="View.aspx" publishTime="04/09/2010 18:54:29" />
+    <file relUrl="bin/flickr.mendhak.com.dll" publishTime="06/16/2010 18:34:36" />
+  </publishTarget>
+</publishData>

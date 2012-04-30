@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "flickr.mendhak.com", "flickr.mendhak.com.csproj", "{9B8D5BE6-5361-4B73-A305-F50E26B00E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8D5BE6-5361-4B73-A305-F50E26B00E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8D5BE6-5361-4B73-A305-F50E26B00E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8D5BE6-5361-4B73-A305-F50E26B00E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8D5BE6-5361-4B73-A305-F50E26B00E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
